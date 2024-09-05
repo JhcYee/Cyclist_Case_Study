@@ -1,4 +1,4 @@
-# refactored-engine
+# Background information on this project
 This is a capstone project offered at the end of the Google Data Analyst Certificate.
 Introduction
 Welcome to the Cyclistic bike-share analysis case study! In this case study, you work for a
